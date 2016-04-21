@@ -45,7 +45,7 @@ input[type=radio] {
   appearance: radio; }
 
 .bg-primary {
-  background-image: url(/images/background.jpg);
+  background-image: url(images/background.jpg);
   background-size: cover;
   background-position: left;
   background-repeat: no-repeat;
