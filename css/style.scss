@@ -263,3 +263,9 @@ input[type=radio] {
     .clock {
         left: -300px; }
 }
+
+@media (max-width:1340px) {
+    .clock {
+        position: inherit; }
+}
+
