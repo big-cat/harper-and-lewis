@@ -250,3 +250,11 @@ input[type=radio] {
         display: none;
     }
 }
+
+/* Clock CSS */
+.clock {
+    color: white;
+    text-align: center;
+    position: fixed;
+    right: 0;
+    left: -200px; }
